@@ -1,0 +1,87 @@
+PODS:
+  - AAShareBubbles (1.1.0)
+  - AFNetworking (2.5.2):
+    - AFNetworking/NSURLConnection (= 2.5.2)
+    - AFNetworking/NSURLSession (= 2.5.2)
+    - AFNetworking/Reachability (= 2.5.2)
+    - AFNetworking/Security (= 2.5.2)
+    - AFNetworking/Serialization (= 2.5.2)
+    - AFNetworking/UIKit (= 2.5.2)
+  - AFNetworking/NSURLConnection (2.5.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.2)
+  - AFNetworking/Security (2.5.2)
+  - AFNetworking/Serialization (2.5.2)
+  - AFNetworking/UIKit (2.5.2):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - ARChromeActivity (1.0.0)
+  - ARSafariActivity (0.0.1)
+  - Bolts (1.1.4)
+  - Facebook-iOS-SDK (3.23.2):
+    - Bolts (~> 1.0)
+  - HTPressableButton (1.3.1):
+    - HTPressableButton/All (= 1.3.1)
+  - HTPressableButton/All (1.3.1)
+  - JBWebViewController (1.0.6):
+    - ARChromeActivity (= 1.0)
+    - ARSafariActivity (= 0.0.1)
+    - NJKWebViewProgress (= 0.2)
+  - MarqueeLabel (2.2.1)
+  - MYBlurIntroductionView (1.0.3)
+  - NJKWebViewProgress (0.2):
+    - NJKWebViewProgress/Core (= 0.2)
+    - NJKWebViewProgress/ProgressView (= 0.2)
+  - NJKWebViewProgress/Core (0.2)
+  - NJKWebViewProgress/ProgressView (0.2)
+  - pop (1.0.7)
+  - SCLAlertView-Objective-C (0.7.0)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - UIActivityIndicator-for-SDWebImage (1.2):
+    - SDWebImage (~> 3.7)
+  - VBFPopFlatButton (0.0.6):
+    - pop
+  - XCDYouTubeKit (2.0.3)
+
+DEPENDENCIES:
+  - AAShareBubbles
+  - AFNetworking (~> 2.0)
+  - Facebook-iOS-SDK (~> 3.23)
+  - HTPressableButton
+  - JBWebViewController
+  - MarqueeLabel
+  - MYBlurIntroductionView
+  - SCLAlertView-Objective-C
+  - SDWebImage (~> 3.6)
+  - UIActivityIndicator-for-SDWebImage
+  - VBFPopFlatButton
+  - XCDYouTubeKit (~> 2.0.3)
+
+SPEC CHECKSUMS:
+  AAShareBubbles: 960610d6a3c4da57d7cd295f4bec68790307bce8
+  AFNetworking: fefbce9660acb17f48ae0011292d4da0f457bf36
+  ARChromeActivity: 40d77445498fded9d32cbf4a41e8585766feffd6
+  ARSafariActivity: f2d5fb199772bc6dd78fcb2b5ea068d70f040847
+  Bolts: f8e2f94edbf9fec7bb8de5ecaaa3aa6b7de6f64e
+  Facebook-iOS-SDK: cd87f0b2f0c1d9574b44e8fa2baacc275524bac3
+  HTPressableButton: f12e76a93a51ce995aff14bda11211f0c1a497dd
+  JBWebViewController: 618302d4db4bb66c433280d96618ac97bf37c950
+  MarqueeLabel: c024bab67a1558e8e127132be3b6d66a702405fe
+  MYBlurIntroductionView: b12651c25574580472ff34989a4c5b81c157009f
+  NJKWebViewProgress: 470ad3e0e59792658abcfb807398996683839b86
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  SCLAlertView-Objective-C: 0491ea966dba9b3713178e2ffbcd0a148dc5b271
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  UIActivityIndicator-for-SDWebImage: 7bf7ebbf0ed1747dedc0d6e949c4603a6d0f9e0c
+  VBFPopFlatButton: 782344da63f104c279a857d806e065117a7e1196
+  XCDYouTubeKit: 43d81f21de14baccadc8499faa6b78b6d83b0910
+
+COCOAPODS: 0.35.0
